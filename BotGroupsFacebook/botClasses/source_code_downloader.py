@@ -1,6 +1,6 @@
 import pyautogui
 import time
-from BotGroupsFacebook.botUtilities import bot_functions
+from BotGroupsFacebook.botClasses import bot_functions
 
 import pyperclip3
 
