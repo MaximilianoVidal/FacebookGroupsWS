@@ -24,7 +24,7 @@ def copy_website_code():
     """
     try:
 
-        bot_functions.please_wait('D:\ConsultoraPY\BSoap')
+        bot_functions.please_wait('D:\ConsultoraPY\ProyectoFaceGroups')
         time.sleep(3)
         # bot_functions.ClickImageOnScreen('./Images/elements.png',1)
 
